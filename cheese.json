@@ -1,0 +1,4 @@
+{
+  "client": ["static", "app.js"],
+  "main": "main.js"
+}
